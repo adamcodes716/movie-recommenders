@@ -1,6 +1,7 @@
 # newly created files
 /.venv
 /sample-data-large
+/sample-data-20mill
 config.json
 
 
