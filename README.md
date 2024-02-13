@@ -23,5 +23,7 @@ Note that this script requires a set of movie files.  I included /sample-data-sm
 # MovieRecommender - Individual
 This script uses a list of movie reviews in order to find movies that are similar to a movie recommended by the user.
 
-
+# MovieRecommender - Deep Learning
+This script vectorizes a list of movies.  A movie is then submitted to the model and the script returns the movies that it sees
+as being the most similar.
 
